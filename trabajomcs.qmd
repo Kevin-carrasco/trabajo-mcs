@@ -1,0 +1,21 @@
+---
+title: "practico5"
+format: html
+editor: visual
+bibliography: meritocracia.bib
+link-citations: true
+---
+
+Hola a tod-s
+
+# Titulo 1
+
+## Titulo 2
+
+### titulo 3
+
+*cursiva*
+
+**negrita**
+
+Según ciertos autores blabla @mijsParadoxInequalityIncome2021
